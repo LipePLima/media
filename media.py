@@ -11,3 +11,4 @@ elif 5.0 <= calculo <= 6.9:
     print('O aluno está de RECUPERAÇÃO!')
 else:
     print('O aluno está REPROVADO!')
+    
